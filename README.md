@@ -42,25 +42,25 @@ Below are some visualizations generated during the project:
 
 ### 1. Forecasting Future Energy Consumption
 
-![Forecasting Future Energy Consumption](forecast_future.png)
+![Forecasting Future Energy Consumption](Figure_1.png)
 
 This graph shows the predicted energy consumption for the next 24 hours using the trained LSTM model. The blue line represents the actual values, while the orange dashed line represents the predicted values.
 
 ### 2. LSTM Model Predictions
 
-![LSTM Model Predictions](lstm_predictions.png)
+![LSTM Model Predictions](Figure_2.png)
 
 This graph compares the actual and predicted energy consumption values over a longer time period. The blue line represents the actual values, and the orange dashed line represents the predictions.
 
 ### 3. Model Loss Graph
 
-![Model Loss Graph](model_loss.png)
+![Model Loss Graph](Figure_3.png)
 
 This graph illustrates the training and validation loss of the LSTM model over multiple epochs. The blue line represents the training loss, and the orange line represents the validation loss.
 
 ### 4. Energy Consumption Over Time
 
-![Energy Consumption Over Time](energy_consumption.png)
+![Energy Consumption Over Time](Figure_4.png)
 
 This graph shows the hourly average global active power consumption over the entire dataset period.
 
